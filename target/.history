@@ -1,8 +1,0 @@
-reload
-compile
-fg
-~compile
-clean
-compile
-clean
-compile
